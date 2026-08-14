@@ -1,0 +1,53 @@
+{
+  "version": 1786667336,
+  "agendaSources": [
+    {
+      "name": "La20hd",
+      "url": "https://la18hd.su/eventos/json/agenda123.json",
+      "offset": 2
+    },
+    {
+      "name": "streamtp",
+      "url": "https://streamtp-golden1.click/eventos.json",
+      "offset": 2
+    },
+    {
+      "name": "StreamHD",
+      "url": "https://streamx-hd.com/eventos.json",
+      "offset": 2
+    }
+  ],
+  "statusSources": [
+    {
+      "name": "La20hd",
+      "url": "https://www.la18hd.su/status.json"
+    },
+    {
+      "name": "StreamTP",
+      "url": "https://streamtp-golden1.click/status.json"
+    }
+  ],
+  "canalesFijos": [
+    {
+      "name": "El Trece",
+      "emoji": "📺",
+      "group": "ARGENTINA",
+      "slug": "eltrece",
+      "url": "direct:https://livetrx01.vodgc.net/eltrecetv/index.m3u8|https://vodgc.net"
+    },
+    {
+      "name": "TN",
+      "emoji": "📰",
+      "group": "ARGENTINA",
+      "slug": "tn",
+      "url": "direct:https://live-01-01-tn.vodgc.net/TN24/index.m3u8|https://vodgc.net"
+    }
+  ],
+  "appUpdate": {
+    "versionCode": 0,
+    "versionName": "",
+    "apkUrl": "",
+    "changelog": "",
+    "mandatory": false
+  }
+}
