@@ -1,5 +1,5 @@
 {
-  "version": 1786667336,
+  "version": 1786668450,
   "agendaSources": [
     {
       "name": "La20hd",
@@ -44,10 +44,10 @@
     }
   ],
   "appUpdate": {
-    "versionCode": 0,
-    "versionName": "",
-    "apkUrl": "",
-    "changelog": "",
+    "versionCode": 9,
+    "versionName": "9.0",
+    "apkUrl": "https://github.com/gonito10/gonito-tv-releases/releases/download/v9.0/gonito-tv.apk",
+    "changelog": "Pluto TV + Canales Argentina + Edición de Canales",
     "mandatory": false
   }
 }
