@@ -1,5 +1,5 @@
 {
-  "version": 1786726176,
+  "version": 1786726517,
   "agendaSources": [
     {
       "name": "La20hd",
@@ -41,6 +41,13 @@
       "group": "ARGENTINA",
       "slug": "tn",
       "url": "direct:https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index_TN_DAI_Beta_1080.m3u8|https://vodgc.net"
+    },
+    {
+      "name": "TV Publica",
+      "emoji": "📺",
+      "group": "ARGENTINA",
+      "slug": "",
+      "url": "direct:https://g5.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8|https://tvpublica.com.ar"
     }
   ],
   "appUpdate": {
