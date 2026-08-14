@@ -1,5 +1,5 @@
 {
-  "version": 1786733220,
+  "version": 1786748920,
   "agendaSources": [
     {
       "name": "La20hd",
@@ -7,13 +7,18 @@
       "offset": 2
     },
     {
-      "name": "streamtp",
+      "name": "StreamTP",
       "url": "https://streamtp-golden1.click/eventos.json",
       "offset": 2
     },
     {
       "name": "StreamHD",
       "url": "https://streamx-hd.com/eventos.json",
+      "offset": 2
+    },
+    {
+      "name": "Stream488",
+      "url": "https://streamx488.sbs/json/agenda550.json",
       "offset": 2
     }
   ],
@@ -41,13 +46,6 @@
       "group": "ARGENTINA",
       "slug": "tn",
       "url": "direct:https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index_TN_DAI_Beta_1080.m3u8|https://vodgc.net"
-    },
-    {
-      "name": "TV Publica",
-      "emoji": "📺",
-      "group": "ARGENTINA",
-      "slug": "",
-      "url": "https://https://www.youtube.com/watch?v=22dQvr55E1A|https://www.youtube.com"
     }
   ],
   "appUpdate": {
