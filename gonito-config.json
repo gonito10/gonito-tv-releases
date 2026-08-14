@@ -1,5 +1,5 @@
 {
-  "version": 1786726624,
+  "version": 1786726927,
   "agendaSources": [
     {
       "name": "La20hd",
@@ -48,6 +48,13 @@
       "group": "ARGENTINA",
       "slug": "",
       "url": "direct:https://www.youtube.com/watch?v=xO6rbgAFeoc|https://www.youtube.com"
+    },
+    {
+      "name": "ESPN 2",
+      "emoji": "📺",
+      "group": "ARGENTINA",
+      "slug": "",
+      "url": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
     }
   ],
   "appUpdate": {
