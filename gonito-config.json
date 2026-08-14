@@ -1,5 +1,5 @@
 {
-  "version": 1786726517,
+  "version": 1786726624,
   "agendaSources": [
     {
       "name": "La20hd",
@@ -47,7 +47,7 @@
       "emoji": "📺",
       "group": "ARGENTINA",
       "slug": "",
-      "url": "direct:https://g5.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8|https://tvpublica.com.ar"
+      "url": "direct:https://www.youtube.com/watch?v=xO6rbgAFeoc|https://www.youtube.com"
     }
   ],
   "appUpdate": {
