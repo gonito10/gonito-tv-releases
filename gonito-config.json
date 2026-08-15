@@ -1,5 +1,5 @@
 {
-  "version": 1786765385,
+  "version": 1786765529,
   "agendaSources": [
     {
       "name": "La20hd",
@@ -33,13 +33,6 @@
     }
   ],
   "canalesFijos": [
-    {
-      "name": "El Trece",
-      "emoji": "📺",
-      "group": "ARGENTINA",
-      "slug": "eltrece",
-      "url": "https://eltrecetv.com.ar/vivo"
-    },
     {
       "name": "TN",
       "emoji": "📰",
