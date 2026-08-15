@@ -1,5 +1,5 @@
 {
-  "version": 1786748920,
+  "version": 1786753563,
   "agendaSources": [
     {
       "name": "La20hd",
@@ -46,6 +46,13 @@
       "group": "ARGENTINA",
       "slug": "tn",
       "url": "direct:https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index_TN_DAI_Beta_1080.m3u8|https://vodgc.net"
+    },
+    {
+      "name": "AFA Plus",
+      "emoji": "📺",
+      "group": "ARGENTINA",
+      "slug": "",
+      "url": "direct:https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/0e1fd3b0-b854-4bff-b884-de9d4479eda5/4791ab94-23c9-45e3-9aba-d4e82867edec/2/streamPlaylist-live.m3u8"
     }
   ],
   "appUpdate": {
