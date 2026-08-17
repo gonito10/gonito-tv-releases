@@ -1,5 +1,5 @@
 {
-  "version": 1786765529,
+  "version": 1786990457,
   "agendaSources": [
     {
       "name": "La20hd",
@@ -60,6 +60,13 @@
       "group": "ARGENTINA",
       "slug": "",
       "url": "direct:https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/d9505537-6713-42bf-9571-93a0e1d7911a/20a7af4b-619a-49a8-a6bb-eedb9c3ce756/2/streamPlaylist-live.m3u8"
+    },
+    {
+      "name": "AFA Play 4",
+      "emoji": "📺",
+      "group": "ARGENTINA",
+      "slug": "",
+      "url": "direct:https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/60c62156-bcc0-4944-ab15-fd1f05cc13ac/master-live.m3u8"
     }
   ],
   "appUpdate": {
