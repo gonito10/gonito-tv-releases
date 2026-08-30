@@ -1,17 +1,17 @@
 {
-  "version": 1788115191,
+  "version": 1788118084,
   "agendaSources": [
     {
       "name": "La20hd",
       "url": "https://la18hd.su/eventos/json/agenda123.json",
       "offset": 2,
-      "webplayer": true
+      "webplayer": false
     },
     {
       "name": "StreamTP",
       "url": "https://streamtp-golden1.click/eventos.json",
       "offset": 2,
-      "webplayer": true
+      "webplayer": false
     },
     {
       "name": "StreamHD",
