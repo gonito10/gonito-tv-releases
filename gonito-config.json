@@ -1,25 +1,29 @@
 {
-  "version": 1788108142,
+  "version": 1788115186,
   "agendaSources": [
     {
       "name": "La20hd",
       "url": "https://la18hd.su/eventos/json/agenda123.json",
-      "offset": 2
+      "offset": 2,
+      "webplayer": true
     },
     {
       "name": "StreamTP",
       "url": "https://streamtp-golden1.click/eventos.json",
-      "offset": 2
+      "offset": 2,
+      "webplayer": true
     },
     {
       "name": "StreamHD",
       "url": "https://streamx-hd.com/eventos.json",
-      "offset": 2
+      "offset": 2,
+      "webplayer": false
     },
     {
       "name": "Stream488",
       "url": "https://streamx488.sbs/json/agenda550.json",
-      "offset": 2
+      "offset": 2,
+      "webplayer": false
     }
   ],
   "statusSources": [
