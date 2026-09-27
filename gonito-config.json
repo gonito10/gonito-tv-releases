@@ -1,5 +1,5 @@
 {
-  "version": 1790538795,
+  "version": 1790550031,
   "agendaSources": [
     {
       "name": "La20hd",
@@ -24,6 +24,12 @@
       "url": "https://streamx488.sbs/json/agenda550.json",
       "offset": 2,
       "webplayer": false
+    },
+    {
+      "name": "Futbol Libre",
+      "url": "https://futbollibre-hd.xyz/",
+      "offset": 2,
+      "webplayer": true
     }
   ],
   "statusSources": [
