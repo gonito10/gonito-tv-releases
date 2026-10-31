@@ -1,5 +1,5 @@
 {
-  "version": 1793484333,
+  "version": 1793484402,
   "agendaSources": [
     {
       "name": "La20hd",
@@ -21,7 +21,7 @@
     },
     {
       "name": "Stream488",
-      "url": "https://streamx723.sbs/json/agenda880.json",
+      "url": "https://streamx723.sbs/json/agenda888.json",
       "offset": 2,
       "webplayer": false
     }
