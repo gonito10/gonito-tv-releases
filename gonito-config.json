@@ -1,5 +1,5 @@
 {
-  "version": 1790550031,
+  "version": 1793473979,
   "agendaSources": [
     {
       "name": "La20hd",
@@ -51,32 +51,11 @@
       "url": "direct:https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index_TN_DAI_Beta_1080.m3u8|https://vodgc.net"
     },
     {
-      "name": "AFA PLAY",
+      "name": "AFA Play 1",
       "emoji": "📺",
       "group": "ARGENTINA",
       "slug": "",
-      "url": "direct:https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/0e1fd3b0-b854-4bff-b884-de9d4479eda5/4791ab94-23c9-45e3-9aba-d4e82867edec/2/streamPlaylist-live.m3u8"
-    },
-    {
-      "name": "AFA PLAY 2",
-      "emoji": "📺",
-      "group": "ARGENTINA",
-      "slug": "",
-      "url": "direct:https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/a590b329-4173-4ea5-9f34-692e74e84f2f/55382cf1-bdf5-4ee3-8aa8-a625172ddfdf/2/streamPlaylist-live.m3u8"
-    },
-    {
-      "name": "AFA PLAY 3",
-      "emoji": "📺",
-      "group": "ARGENTINA",
-      "slug": "",
-      "url": "direct:https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/d9505537-6713-42bf-9571-93a0e1d7911a/20a7af4b-619a-49a8-a6bb-eedb9c3ce756/2/streamPlaylist-live.m3u8"
-    },
-    {
-      "name": "AFA Play 4",
-      "emoji": "📺",
-      "group": "ARGENTINA",
-      "slug": "",
-      "url": "direct:https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/60c62156-bcc0-4944-ab15-fd1f05cc13ac/master-live.m3u8"
+      "url": "direct:https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/9efc7771-aa5b-449c-885e-c027b360d088/0fc82036-265c-4b08-9e65-1e277175a318/1/streamPlaylist-live.m3u8"
     }
   ],
   "appUpdate": {
